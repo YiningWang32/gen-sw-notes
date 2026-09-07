@@ -15,6 +15,7 @@
 | # | 笔记 | 链接 |
 |---|------|------|
 | 01 | 没有token的CS学生应当立即退学（绪论 · 从 LLM 到 Agent · 普通人视角 · 软件工程 · ehall Discussion） | [01-没有token的CS学生应当立即退学.md](./01-没有token的CS学生应当立即退学.md) |
+| 02 | 扩大我的世界（Prompt(Context) Engineering · 使模型遵循指令的技巧 · 处理更长程任务 Long-Horizon） | [02-扩大我的世界.md](./02-扩大我的世界.md) |
 
 *之后每上一节课，这里会追加一篇。*
 
